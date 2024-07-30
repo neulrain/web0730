@@ -11,6 +11,11 @@
 - Symbol
 
 
+
+
+
+
+
   ### 순화 가능한 객체 특징
 
 - ***Symbol.iterator를 갖는다
