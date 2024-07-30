@@ -104,6 +104,7 @@ myIterable[Symbol.iterator] = function* () {
 [...myIterable]; // [1, 2, 3]
 
 ```
+<hr>
 
 ### Class문법
 
@@ -144,7 +145,7 @@ Array.prototype.함수 = function(){}
 var 어레이 = [4,2,1] // 모든 array에서 사용할 수 있는 함수가 됨
 ```
 
-
+<hr>
 
 ### Symbol
 
